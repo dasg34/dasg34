@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a developer with a background in UI Framework and widget implementation. I have experience working on the UI Framework of Tizen and have implemented various widgets in a 3D environment. 
+I'm a developer with a background in UI Framework and widget implementation. I have experience working on the UI Framework of Tizen and have implemented various widgets in a 3D environment. 
 
 🔭 **Currently working on:** I don't know either.
 
@@ -20,7 +20,7 @@ Here are some badges that show my skills and achievements:
 
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://github.com/Samsung/mixed-reality-extension-godot)
 [![Tizen](https://img.shields.io/badge/-Tizen-181717?style=flat-square&logo=tizen&logoColor=white)](https://github.com/Samsung/TizenFX/pulls?q=is%3Apr+dasg34+is%3Aclosed)
-[![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)]()
+[![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)](https://aiden-34.artstation.com/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)]()(Sorry, this is a private repo.)
 
 
